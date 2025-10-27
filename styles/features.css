@@ -58,7 +58,6 @@
   }
 
 
-
   & .card:nth-child(5) {
     grid-column: 3/5;
     grid-row: 2/3;
